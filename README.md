@@ -15,8 +15,8 @@ Required Python 3.6.8
 Installation
 ------------
 
-1. git clone
-    
+1. git clone https://github.com/kharchenko-kh-ua/simple_api.git
+
 2. virtualenv environment --python=python3 
 
     source environment/bin/activate
